@@ -3,3 +3,5 @@
 - stav teoretickej casti: 50%
 - stav praktickej casti: 25%
 - predpokladaný termín odovzdania : 20.4.2016
+
+zmena spravená v remote repozitari
